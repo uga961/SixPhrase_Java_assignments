@@ -1,6 +1,6 @@
 # 🎯 SixPhrase Java Assignments
 
-A collection of Java assignments centered around **SixPhrase** applications, created as part of coursework by [GitHub user uga961].
+I created a collection of Java assignments centered around **SixPhrase** applications as part of coursework.
 
 ---
 
@@ -8,7 +8,7 @@ A collection of Java assignments centered around **SixPhrase** applications, cre
 
 ```
 
-SixPhrase\_Java\_assignments/
+SixPhrase_Java_assignments/
 ├── README.md
 ├── Module Name/
 |   ├── src/                          # Source code for all assignments
